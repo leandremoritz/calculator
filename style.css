@@ -1,0 +1,22 @@
+#output{ background-color: grey;
+    border: 3px solid; 
+    width: 450px;
+    height: 100px; ;
+}
+.button-container{ border: 3px solid; 
+    display: block;
+    width: 30px; height: 30px;
+}
+.calculator{ background-color: black;
+    border-color: black; border: 3px solid; height: 800px;width: 700px;
+}
+button{ height: 2px;
+    width: 3px;
+    padding: 50px;
+    border-radius: 100px;
+    text-align: center; 
+    font-size: x-large;
+    }
+    body {
+        background-color: black;
+    }
